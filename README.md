@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Sebas2rus
-- 👀 Actualmento soy estudiante de analisis y desarrollo de sistemas de informacion en el SENA
+- 👀 Estudiante de analisis y desarrollo de sistemas de informacion en el SENA
+- 📝 Participante de MisionTic 2022
 - 🌱 Estoy desarrollando sistemas de auto aprendizaje enfocados en el desarrollo web. En el futuro me gustaría especializarme en machine learning y IA
 - 💞️ Soy amante de las montañas, de los bosques, de la naturalez, de la vida. 
 
