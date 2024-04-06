@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hola, Soy Sebastian Gonzalez👋
 
+- 🌱 I’m currently learning ASP.NET CORE
 <!--
 **Sebas2rus/Sebas2rus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
